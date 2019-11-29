@@ -2,6 +2,7 @@
  * A Print function
  */
 
+
 function printLine()
 {
     return `Speak of the devil!`;
@@ -13,10 +14,12 @@ function printJumboTronLine()
 
 }
 
+
 /**
  * A Heading  function
  * @returns {string}
  */
+
 
 function addHeading()
 {
